@@ -1,0 +1,14 @@
+{
+  "name": "testapp",
+  "description": "A demo command for testing the installapp utility",
+  "version": "1.0.0",
+  "target": "all",
+  "icon": "icon.ico",
+  "entrypoint": "testapp.py",
+  "dependencies": [],
+  "author": "Asbjorn Rasen",
+  "email": "asbjornrasen@gmail.com",
+  "github": "https://github.com/asbjornrasen",
+  "website": "https://cptdcli.com",
+  "license": "https://cptdcli.com/license.md"
+}

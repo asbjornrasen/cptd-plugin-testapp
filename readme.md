@@ -19,7 +19,7 @@ To run the command:
 
 Expected result:
 
-    [✓] Shortcut is working correctly.
+    [✓] The program has been successfully installed as an aplication!.
 
 ## Installation
 
@@ -30,6 +30,11 @@ Add this command to CPTD CLI using:
 Then use `installapp`:
 
     cptd installapp --add testapp
+
+after installapp run icon testapp
+
+Expected result:
+[✓] The program has been successfully installed as an aplication!.
 
 ## Removal
 
